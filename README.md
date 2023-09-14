@@ -1,4 +1,5 @@
-# Rahul Raj V V - DevOps and Multi Cloud Solution Architect | Community Builder | Speaker | Mentor
+# Rahul Raj V V 
+# DevOps and Multi Cloud Solution Architect | Community Builder | Speaker | Mentor
 
 Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Architect, Speaker, and Mentor. I specialize in architecting, building, and delivering highly resilient, scalable, and distributed technology platforms with a cloud-first and agile mentality. My approach is strongly centered around customer-centricity and business-focused solution development. Over the years, I've demonstrated expertise in solution architecture and building full IT lifecycle solutions in a diverse set of industry verticals.
 
