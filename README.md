@@ -108,8 +108,8 @@ Here's a glimpse of the skills and technologies I bring to the table:
 </div>
 <div align="center">
  <h3>November 6, 2022 - Prathidwani Technopark, Trivandrum, Kerala</h3>
-   <img src="./images/speaker4.jpg" alt="prathidwani-technopark-flyer" width="400">
    <img src="./images/event3.jpg" alt="prathidwani-technopark-1" width="400">
+   <img src="./images/speaker4.jpg" alt="prathidwani-technopark-flyer" width="400">
    <img src="./images/event5.jpg" alt="prathidwani-technopark-2" width="400">
    <img src="./images/event6.jpg" alt="prathidwani-technopark-3" width="400">
 </div>
