@@ -112,6 +112,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
    <img src="./images/dmmeetup.jpg" alt="prathidwani-technopark-1" width="400">
    <img src="./images/dmmeetup1.jpg" alt="prathidwani-technopark-2" width="400">
    <img src="./images/event14.jpg" alt="prathidwani-technopark-flyer" width="400">
+   <img src="./images/event10.JPG" alt="prathidwani-technopark-flyer" width="400">
 </div>  
  <h3>November 6, 2022 - Prathidwani Technopark, Trivandrum, Kerala</h3>
    <img src="./images/event3.jpg" alt="prathidwani-technopark-1" width="400">
@@ -124,7 +125,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
    <img src="./images/speaker3.jpg" alt="speaker-meetup-1" width="400">
 </div>
 <div align="center">
- <h3> Sep 29, 2022 - AKS Zero to Hero, Trivandrum, Kerala</h3>
+ <h3> Sep 29, 2022 - DevOps Malayalam Series- AKS Zero to Hero, Trivandrum, Kerala</h3>
    <img src="./images/speaker5.jpg" alt="speaker-meetup-2" width="400">
 </div>
 <div align="center">
