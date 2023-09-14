@@ -89,16 +89,22 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling the world and enjoy the sceneries.
 
-- #  Here's a sneak peek of my offline events:
+#  Here's a sneak peek of my offline events:
 
 <div align="center">
   <h2>Image Gallery</h2>
 </div>
 
 <div align="center">
-  <p>August 23, 2023 - Xebia Agile Riyadh Meetup 2023</p>
-  <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="400">
+  <p>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023</p>
+  <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="auto">
   <img src="./images/event1.jpg" alt="xebia-agile-riyadh-meetup-2023-pics" width="400">
+</div>
+
+<div align="center">
+  <p>April 1, 2023 - DevOn-meetup Bengaluru, Karnataka, India</p>
+  <img src="./images/speaker2.jpg" alt="devon-meetup-bengaluru-flyer" width="auto">
+  <img src="./images/event2" alt="devon-meetup-bengaluru-pics" width="400">
 </div>
 
 
