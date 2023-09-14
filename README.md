@@ -97,8 +97,8 @@ Here's a glimpse of the skills and technologies I bring to the table:
 
 <div align="center">
   <p>August 23, 2023 - Xebia Agile Riyadh Meetup 2023</p>
-  <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="auto">
-  <img src="./images/event1.jpg" alt="xebia-agile-riyadh-meetup-2023-pics" width="200">
+  <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="400">
+  <img src="./images/event1.jpg" alt="xebia-agile-riyadh-meetup-2023-pics" width="400">
 </div>
 
 
