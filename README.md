@@ -135,15 +135,16 @@ Here's a glimpse of the skills and technologies I bring to the table:
 </div>
 <div align="center">
  <h3> Oct 29, 2022 - AWS Meetup Kochi 2022, Kerala</h3>
-   <img src="./images/event11.jpg" alt="speaker-meetup-2" width="400">
+
    <img src="./images/event12.jpg" alt="speaker-meetup-2" width="400">
    <img src="./images/event13.jpg" alt="speaker-meetup-2" width="400">
+   <img src="./images/event11.jpg" alt="speaker-meetup-2" width="600">
 </div>
 <div align="center">
  <h3> Oct 21, 2022 - Az Conf Meetup, Chennai, Tamil Nadu</h3>
-   <img src="./images/event7.jpg" alt="speaker-meetup-2" width="400">
    <img src="./images/event8.jpg" alt="speaker-meetup-2" width="400">
    <img src="./images/event9.jpg" alt="speaker-meetup-2" width="400">
+   <img src="./images/event7.jpg" alt="speaker-meetup-2" width="400">
 </div>   
 
 #  Let's build robust and scalable solutions together! 👨‍💻🚀
