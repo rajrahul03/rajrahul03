@@ -103,8 +103,8 @@ Here's a glimpse of the skills and technologies I bring to the table:
 
 <div align="center">
   <p>April 1, 2023 - DevOn-meetup Bengaluru, Karnataka, India</p>
-  <img src="./images/speaker2.jpg" alt="devon-meetup-bengaluru-flyer" width="400">
-  <img src="./images/event2.jpg" alt="devon-meetup-bengaluru-pics" width="400">
+  <img src="./images/speaker2.jpg" alt="devon-meetup-bengaluru-flyer" width="600">
+  <img src="./images/event2.jpg" alt="devon-meetup-bengaluru-pics" width="600">
 </div>
 
 
