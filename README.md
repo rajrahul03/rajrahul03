@@ -109,9 +109,9 @@ Here's a glimpse of the skills and technologies I bring to the table:
 <div align="center">
 <div align="center">
  <h3> March 25, 2023 - DM Meeup Organiser and Speaker, Trivandrum, Kerala</h3>
-   <img src="./images/dmmeetup.jpg" alt="prathidwani-technopark-1" width="300">
-   <img src="./images/dmmeetup1.jpg" alt="prathidwani-technopark-2" width="300">
-   <img src="./images/event14.jpg" alt="prathidwani-technopark-flyer" width="300">
+   <img src="./images/dmmeetup.jpg" alt="prathidwani-technopark-1" width="600">
+   <img src="./images/dmmeetup1.jpg" alt="prathidwani-technopark-2" width="400">
+   <img src="./images/event14.jpg" alt="prathidwani-technopark-flyer" width="400">
 </div>  
  <h3>November 6, 2022 - Prathidwani Technopark, Trivandrum, Kerala</h3>
    <img src="./images/event3.jpg" alt="prathidwani-technopark-1" width="400">
