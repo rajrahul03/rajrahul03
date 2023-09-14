@@ -96,13 +96,13 @@ Here's a glimpse of the skills and technologies I bring to the table:
 </div>
 
 <div align="center">
-  <p>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023</p>
+  <h3>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023<h3>
   <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="400">
   <img src="./images/event1.jpg" alt="xebia-agile-riyadh-meetup-2023-pics" width="400">
 </div>
 
 <div align="center">
-  <p>April 1, 2023 - DevOn-meetup Bengaluru, Karnataka, India</p>
+  <h3>April 1, 2023 - DevOn-meetup Bengaluru, Karnataka, India</h3>
   <img src="./images/speaker2.jpg" alt="devon-meetup-bengaluru-flyer" width="600">
   <img src="./images/event2.jpg" alt="devon-meetup-bengaluru-pics" width="600">
 </div>
