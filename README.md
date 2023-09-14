@@ -89,6 +89,18 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling the world and enjoy the sceneries.
 
+- #  Here's a sneak peek of my offline events:
+
+<div align="center">
+  <h2>Image Gallery</h2>
+</div>
+
+<div align="center">
+  <p>August 23, 2023 - Xebia Agile Riyadh Meetup 2023</p>
+  <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="auto">
+  <img src="./images/event1.jpg" alt="xebia-agile-riyadh-meetup-2023-pics" width="200">
+</div>
+
 
 Let's build robust and scalable solutions together! 👨‍💻🚀
 ```
