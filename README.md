@@ -111,7 +111,13 @@ Here's a glimpse of the skills and technologies I bring to the table:
   <img src="./images/event21.jpeg" alt="cncg-ruh-3" width="400">
   <img src="./images/event22.jpeg" alt="cncg-ruh-4" width="400">
 </div>
-
+<div align="center">
+  <h3>March 19, 2024 - Cloud Native Con Paris, France 2024<h3>
+  <img src="./images/event23.jpg" alt="cncg-fra-1" width="400">
+  <img src="./images/event24.jpeg" alt="cncg-fra-2" width="200">
+  <img src="./images/event25.jpeg" alt="cncg-fra-3" width="400">
+  <img src="./images/event26.jpeg" alt="cncg-fra-4" width="400">
+</div>
 
 <div align="center">
   <h3>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023<h3>
