@@ -1,5 +1,5 @@
 # Rahul Raj V V 
-# DevOps and Cloud Architect | Community Builder | Speaker | Content Creator | Blogger | Mentor
+# DevOps and Cloud Architect | CNCG RIYADH & TRIVANDRUM LEAD ORGANISER | Community Builder | Speaker | Content Creator | Blogger | Mentor
 
 Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Architect, Speaker, and Mentor. I specialize in architecting, building, and delivering highly resilient, scalable, and distributed technology platforms with a cloud-first and agile mentality. My approach is strongly centered around customer-centricity and business-focused solution development. Over the years, I've demonstrated expertise in solution architecture and building full IT lifecycle solutions in a diverse set of industry verticals.
 
@@ -82,7 +82,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
 ## About Me
 
 - 🔭 I’m currently working on architecting a large-scale microservices architecture for a financial services company.
-- 🌱 I’m currently learning more about machine learning and its applications in DevOps.
+- 🌱 I’m currently leading two major CNCF communities CNCG Riyadh,Saudi Arabia and Trivandrum,India
 - 👯 I’m looking to collaborate on open-source DevOps projects that improve developer productivity.
 - 🤔 I’m looking for help with optimizing CI/CD pipelines for Kubernetes deployments.
 - 💬 Ask me about DevOps best practices, cloud architecture, or containerization strategies.
@@ -95,6 +95,23 @@ Here's a glimpse of the skills and technologies I bring to the table:
 <div align="center">
   <h2>Image Gallery</h2>
 </div>
+
+<div align="center">
+  <h3>June 08, 2024 - CNCG Trivandrum Kube Bday Bash, Trivandrum, India  2024<h3>
+  <img src="./images/event15.jpg" alt="cncg-tvm-1" width="400">
+  <img src="./images/event16.jpg" alt="cncg-tvm-2" width="400">
+  <img src="./images/event17.jpg" alt="cncg-tvm-3" width="400">
+  <img src="./images/event18.jpg" alt="cncg-tvm-4" width="400">
+</div>
+
+<div align="center">
+  <h3>June 05, 2024 - CNCG Riyadh Kube Bday Bash, Saudi Arabia 2024<h3>
+  <img src="./images/event19.jpg" alt="cncg-ruh-1" width="400">
+  <img src="./images/event20.jpg" alt="cncg-ruh-2" width="400">
+  <img src="./images/event21.jpg" alt="cncg-ruh-3" width="400">
+  <img src="./images/event22.jpg" alt="cncg-ruh-4" width="400">
+</div>
+
 
 <div align="center">
   <h3>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023<h3>
