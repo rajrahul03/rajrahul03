@@ -98,18 +98,18 @@ Here's a glimpse of the skills and technologies I bring to the table:
 
 <div align="center">
   <h3>June 08, 2024 - CNCG Trivandrum Kube Bday Bash, Trivandrum, India  2024<h3>
-  <img src="./images/event15.jpg" alt="cncg-tvm-1" width="400">
-  <img src="./images/event16.jpg" alt="cncg-tvm-2" width="400">
-  <img src="./images/event17.jpg" alt="cncg-tvm-3" width="400">
-  <img src="./images/event18.jpg" alt="cncg-tvm-4" width="400">
+  <img src="./images/event15.jpeg" alt="cncg-tvm-1" width="400">
+  <img src="./images/event16.jpeg" alt="cncg-tvm-2" width="400">
+  <img src="./images/event17.jpeg" alt="cncg-tvm-3" width="400">
+  <img src="./images/event18.jpeg" alt="cncg-tvm-4" width="400">
 </div>
 
 <div align="center">
   <h3>June 05, 2024 - CNCG Riyadh Kube Bday Bash, Saudi Arabia 2024<h3>
-  <img src="./images/event19.jpg" alt="cncg-ruh-1" width="400">
-  <img src="./images/event20.jpg" alt="cncg-ruh-2" width="400">
-  <img src="./images/event21.jpg" alt="cncg-ruh-3" width="400">
-  <img src="./images/event22.jpg" alt="cncg-ruh-4" width="400">
+  <img src="./images/event19.jpeg" alt="cncg-ruh-1" width="400">
+  <img src="./images/event20.jpeg" alt="cncg-ruh-2" width="400">
+  <img src="./images/event21.jpeg" alt="cncg-ruh-3" width="400">
+  <img src="./images/event22.jpeg" alt="cncg-ruh-4" width="400">
 </div>
 
 
