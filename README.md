@@ -99,9 +99,17 @@ Here's a glimpse of the skills and technologies I bring to the table:
 <div align="center">
   <h2>Image Gallery</h2>
 </div>
+<div align="center">
+  <h3>Sep 19 , 2024 - Open Source Summit & CDF Summit Europe,Vienna,Austria  2024<h3>
+  <img src="./images/oss/oss1.jpeg" alt="oss-1" width="400">
+  <img src="./images/oss/oss2.jpeg" alt="oss-2" width="400">   
+  <img src="./images/oss/oss3.jpeg" alt="oss-3" width="400">
+  <img src="./images/oss/oss4.jpeg" alt="oss-4" width="400">   
+  <img src="./images/oss/oss5.jpeg" alt="oss-5" width="400">         
+</div>
 
 <div align="center">
-  <h3>Sep 19 , 2024 - OPEN SOURCE SUMMIT & CDF SUMMIT VIENNA, AUSTRIA  2024<h3>
+  <h3>June 08, 2024 - CNCG Trivandrum Kube Bday Bash, Trivandrum, India 2024<h3>
   <img src="./images/event15.jpeg" alt="cncg-tvm-1" width="400">
   <img src="./images/event17.jpeg" alt="cncg-tvm-3" width="400">
   <img src="./images/event16.jpeg" alt="cncg-tvm-2" width="400">
