@@ -13,6 +13,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - TeamCity
 - Gitlab
 - Ansible
+- Tekton
 
 ### Source Code Management (SCM)
 - GIT
@@ -78,6 +79,9 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - Helm
 - ACR (Azure Container Registry)
 - ECR (Amazon Elastic Container Registry)
+- Rook Ceph
+- Longhorn
+- Harbor
 
 ## About Me
 
