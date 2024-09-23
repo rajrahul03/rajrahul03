@@ -104,6 +104,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
   <img src="./images/oss/oss1.jpeg" alt="oss-1" width="400">
   <img src="./images/oss/oss2.jpeg" alt="oss-2" width="400">   
   <img src="./images/oss/oss3.jpeg" alt="oss-3" width="400">
+  <img src="./images/oss/oss3-1.jpeg" alt="oss-3" width="400">    
   <img src="./images/oss/oss4.jpeg" alt="oss-4" width="400">   
   <img src="./images/oss/oss5.jpeg" alt="oss-5" width="400">         
 </div>
