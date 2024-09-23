@@ -117,10 +117,15 @@ Here's a glimpse of the skills and technologies I bring to the table:
 </div>
 <div align="center">
   <h3>March 19, 2024 - Cloud Native Con Paris, France 2024<h3>
-  <img src="./images/event23.jpg" alt="cncg-fra-1" width="400">
-  <img src="./images/event24.jpeg" alt="cncg-fra-2" width="200">
-  <img src="./images/event25.jpeg" alt="cncg-fra-3" width="400">
-  <img src="./images/event26.jpeg" alt="cncg-fra-4" width="400">
+  <img src="./images/paris/paris1.jpeg" alt="cncg-fra-1" width="400">
+  <img src="./images/paris/paris2.jpeg" alt="cncg-fra-2" width="400">
+  <img src="./images/paris/paris3.jpeg" alt="cncg-fra-3" width="400">
+  <img src="./images/paris/paris4.jpeg" alt="cncg-fra-4" width="400">
+  <img src="./images/paris/paris5.jpeg" alt="cncg-fra-5" width="400">
+  <img src="./images/paris/paris6.jpeg" alt="cncg-fra-6" width="400">
+  <img src="./images/paris/paris7.jpeg" alt="cncg-fra-7" width="400">
+  <img src="./images/paris/paris8.jpeg" alt="cncg-fra-8" width="400">  
+    
 </div>
 
 <div align="center">
