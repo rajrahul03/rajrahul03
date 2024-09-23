@@ -112,7 +112,6 @@ Here's a glimpse of the skills and technologies I bring to the table:
   <h3>June 05, 2024 - CNCG Riyadh Kube Bday Bash, Saudi Arabia 2024<h3>
   <img src="./images/cncfr/cncfr1.jpeg" alt="cncg-ruh-1" width="400">
   <img src="./images/cncfr/cncfr2.jpeg" alt="cncg-ruh-1" width="400">
-  <img src="./images/cncfr/cncfr3.jpeg" alt="cncg-ruh-1" width="400">
   <img src="./images/cncfr/cncfr4.jpeg" alt="cncg-ruh-1" width="400">    
   <img src="./images/cncfr/cncfr1-1.jpeg" alt="cncg-ruh-1" width="400">    
 </div>
