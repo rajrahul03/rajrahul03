@@ -110,8 +110,11 @@ Here's a glimpse of the skills and technologies I bring to the table:
 
 <div align="center">
   <h3>June 05, 2024 - CNCG Riyadh Kube Bday Bash, Saudi Arabia 2024<h3>
-  <img src="./images/event19.jpg" alt="cncg-ruh-1" width="400">
-  <img src="./images/event20.jpeg" alt="cncg-ruh-2" width="200">
+  <img src="./images/cncfr/cncfr1-1.jpeg" alt="cncg-ruh-1" width="400">
+  <img src="./images/cncfr/cncfr1.jpeg" alt="cncg-ruh-1" width="400">
+  <img src="./images/cncfr/cncfr2.jpeg" alt="cncg-ruh-1" width="400">
+  <img src="./images/cncfr/cncfr3.jpeg" alt="cncg-ruh-1" width="400">
+  <img src="./images/cncfr/cncfr4.jpeg" alt="cncg-ruh-1" width="400">    
 </div>
 <div align="center">
   <h3>March 19, 2024 - Cloud Native Con Paris, France 2024<h3>
