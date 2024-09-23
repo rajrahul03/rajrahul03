@@ -140,7 +140,10 @@ Here's a glimpse of the skills and technologies I bring to the table:
   <img src="./images/paris/paris8.jpeg" alt="cncg-fra-8" width="400">  
     
 </div>
-
+<div align="center">
+  <h3>December 15, 2023 - Harbor, Cloud Native Trivandrum, India  2023<h3>
+  <img src="./images/cncgtvm.jpeg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="400">
+</div>
 <div align="center">
   <h3>August 23, 2023 - Xebia Agile Meetup Riyadh, Saudi Arabia  2023<h3>
   <img src="./images/speaker1.jpg" alt="xebia-agile-riyadh-meetup-2023-flyer" width="400">
