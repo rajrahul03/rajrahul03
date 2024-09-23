@@ -101,7 +101,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
 </div>
 <div align="center">
   <h3>Sep 25 , 2024 - DevOps Days, Cairo,Egypt 2024<h3>
-  <img src="./images/ddays/ddays11.jpeg" alt="oss-1" width="400">      
+  <img src="./images/cairo.jpeg" alt="cairo-1" width="400">      
 </div>
 <div align="center">
   <h3>Sep 19 , 2024 - Open Source Summit & CDF Summit Europe,Vienna,Austria  2024<h3>
