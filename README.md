@@ -7,81 +7,42 @@ Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Archite
 
 Here's a glimpse of the skills and technologies I bring to the table:
 
-### CI/CD
-- Azure DevOps
-- Jenkins
-- TeamCity
-- Gitlab
-- Ansible
-- Tekton
+### CI/CD | Cloud Platforms | Cloud Automation
+--- | --- | ---
+Azure DevOps | Azure | Terraform
+Jenkins | AWS | Packer
+TeamCity | GCP | ARM Template
+Gitlab | | 
+Ansible | | 
+Tekton | | 
 
-### Source Code Management (SCM)
-- GIT
-- SVN
-- ClearCase
+### Build Tools | Code Analysis & Security | Containerization
+--- | --- | ---
+Maven | SonarQube | Docker
+Gradle | Veracode | AKS (Azure Kubernetes Service)
+ANT | White Source | ACR (Azure Container Registry)
+Packer | Aquasec | Kubernetes
+Cake | Checkmarx | Open Shift
+MS Build | | Quay
+Pybuild | | Helm
+ | | ECS (Amazon Elastic Container Service)
+ | | ECR (Amazon Elastic Container Registry)
+ | | Serverless containers
+ | | Azure Webapps
+ | | Azure Container Instances
 
-### Cloud Platforms
-- Azure
-- AWS
-- GCP
+### Monitoring | Scripting | Packaging and Repository Management
+--- | --- | ---
+Application Insights | PowerShell | Nuget
+Log Analytics | Bash | NPM
+Grafana | CMD | Artifactory feed
+ELK Stack (Elasticsearch, Logstash, Kibana) | | Helm
+GCP APIGEE | | ACR (Azure Container Registry)
+ | | | ECR (Amazon Elastic Container Registry)
+ | | | Rook Ceph
+ | | | Longhorn
+ | | | Harbor
 
-### Cloud Automation
-- Terraform
-- Packer
-- ARM Template
-
-### Build Tools
-- Maven
-- Gradle
-- ANT
-- Packer
-- Cake
-- MS Build
-- Pybuild
-
-### Code Analysis & Security
-- SonarQube
-- Veracode
-- White Source
-- Aquasec
-- Checkmarx 
-
-### Containerization
-- Docker
-- AKS (Azure Kubernetes Service)
-- ACR (Azure Container Registry)
-- Kubernetes
-- Open Shift
-- Quay
-- Helm
-- ECS (Amazon Elastic Container Service)
-- ECR (Amazon Elastic Container Registry)
-- Serverless containers
-- Azure Webapps
-- Azure Container Instances
-
-### Monitoring
-- Application Insights
-- Log Analytics
-- Grafana
-- ELK Stack (Elasticsearch, Logstash, Kibana)
-- GCP APIGEE
-
-### Scripting
-- PowerShell
-- Bash
-- CMD
-
-### Packaging and Repository Management
-- Nuget
-- NPM
-- Artifactory feed
-- Helm
-- ACR (Azure Container Registry)
-- ECR (Amazon Elastic Container Registry)
-- Rook Ceph
-- Longhorn
-- Harbor
 
 ## About Me
 
@@ -89,7 +50,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
 - 🌱 I’m currently leading two major CNCF communities CNCG Riyadh,Saudi Arabia and Trivandrum,India
 - 👯 I’m looking to collaborate on open-source DevOps projects that improve developer productivity.
 - 🤔 I’m looking for help with optimizing CI/CD pipelines for Kubernetes deployments.
-- 💬 Ask me about DevOps best practices, cloud architecture, or containerization strategies.
+- 💬 Ask me about DevOps best practices, cloud architecture, or containerization strategies.Cloud Native tools
 - 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rahulrajvv/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling the world and enjoy the sceneries.
