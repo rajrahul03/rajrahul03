@@ -19,44 +19,32 @@ Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Archite
 
 Here's a glimpse of the skills and technologies I bring to the table:
 
-| CI/CD               | Cloud Platforms     | Build & Automation Tools      |
-|---------------------|---------------------|-------------------------------|
-| Azure DevOps        | Azure               | Terraform                     |
-| Jenkins             | AWS                 | Packer                        |
-| TeamCity            | GCP                 | ARM Template                  |
-| Gitlab              |                     | Maven                         |
-| Ansible             |                     | Gradle                        |
-| Tekton              |                     | ANT                           |
-|                     |                     | Cake                          |
-|                     |                     | MS Build                      |
-|                     |                     | Pybuild                       |
+| CI/CD               | Containerization            | Build & Automation Tools      | Code Analysis & Security  |
+|---------------------|-----------------------------|-------------------------------|---------------------------|
+| Azure DevOps        | Docker                      | Terraform                     | SonarQube                 |
+| Jenkins             | AKS (Azure Kubernetes Service) | Packer                        | Veracode                  |
+| TeamCity            | ACR (Azure Container Registry) | ARM Template                  | White Source              |
+| Gitlab              | Kubernetes                  | Maven                         | Aquasec                   |
+| Ansible             | Open Shift                  | Gradle                        | Checkmarx                 |
+| Tekton              | Quay                        | ANT                           |                           |
+|                     | Helm                        | Cake                          |                           |
+|                     | ECS (Amazon Elastic Container Service) | MS Build                      |                           |
+|                     | ECR (Amazon Elastic Container Registry) | Pybuild                       |                           |
+|                     | Serverless containers       |                               |                           |
+|                     | Azure Webapps               |                               |                           |
+|                     | Azure Container Instances   |                               |                           |
 
-| Code Analysis & Security  | Containerization           | Monitoring                   |
-|---------------------------|----------------------------|------------------------------|
-| SonarQube                 | Docker                     | Application Insights          |
-| Veracode                  | AKS (Azure Kubernetes Service) | Log Analytics             |
-| White Source              | ACR (Azure Container Registry) | Grafana                    |
-| Aquasec                   | Kubernetes                 | ELK Stack (Elasticsearch, Logstash, Kibana) |
-| Checkmarx                 | Open Shift                 | GCP APIGEE                   |
-|                           | Quay                       |                              |
-|                           | Helm                       |                              |
-|                           | ECS (Amazon Elastic Container Service) |                  |
-|                           | ECR (Amazon Elastic Container Registry) |                |
-|                           | Serverless containers      |                              |
-|                           | Azure Webapps              |                              |
-|                           | Azure Container Instances  |                              |
-
-| Scripting      | Packaging & Repository Management     |                             |
-|----------------|---------------------------------------|-----------------------------|
-| PowerShell     | Nuget                                 |                             |
-| Bash           | NPM                                   |                             |
-| CMD            | Artifactory feed                      |                             |
-|                | Helm                                  |                             |
-|                | ACR (Azure Container Registry)        |                             |
-|                | ECR (Amazon Elastic Container Registry)|                             |
-|                | Rook Ceph                             |                             |
-|                | Longhorn                              |                             |
-|                | Harbor                                |                             |
+| Cloud Platforms     | Monitoring                   | Scripting      | Packaging & Repository Management     |
+|---------------------|------------------------------|----------------|---------------------------------------|
+| Azure               | Application Insights          | PowerShell     | Nuget                                 |
+| AWS                 | Log Analytics                | Bash           | NPM                                   |
+| GCP                 | Grafana                      | CMD            | Artifactory feed                      |
+|                     | ELK Stack (Elasticsearch, Logstash, Kibana) |    | Helm                                  |
+|                     | GCP APIGEE                   |                | ACR (Azure Container Registry)        |
+|                     |                              |                | ECR (Amazon Elastic Container Registry)|
+|                     |                              |                | Rook Ceph                             |
+|                     |                              |                | Longhorn                              |
+|                     |                              |                | Harbor                                |
 
 
 
