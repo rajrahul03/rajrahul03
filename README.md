@@ -7,29 +7,42 @@ Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Archite
 
 Here's a glimpse of the skills and technologies I bring to the table:
 
-### CI/CD | Cloud Platforms | Cloud Automation
---- | --- | ---
-Azure DevOps | Azure | Terraform
-Jenkins | AWS | Packer
-TeamCity | GCP | ARM Template
-Gitlab | | 
-Ansible | | 
-Tekton | | 
+| CI/CD               | Cloud Platforms | Cloud Automation |
+|---------------------|-----------------|------------------|
+| Azure DevOps        | Azure           | Terraform        |
+| Jenkins             | AWS             | Packer           |
+| TeamCity            | GCP             | ARM Template     |
+| Gitlab              |                 |                  |
+| Ansible             |                 |                  |
+| Tekton              |                 |                  |
 
-### Build Tools | Code Analysis & Security | Containerization
---- | --- | ---
-Maven | SonarQube | Docker
-Gradle | Veracode | AKS (Azure Kubernetes Service)
-ANT | White Source | ACR (Azure Container Registry)
-Packer | Aquasec | Kubernetes
-Cake | Checkmarx | Open Shift
-MS Build | | Quay
-Pybuild | | Helm
- | | ECS (Amazon Elastic Container Service)
- | | ECR (Amazon Elastic Container Registry)
- | | Serverless containers
- | | Azure Webapps
- | | Azure Container Instances
+| Build Tools | Code Analysis & Security | Containerization |
+|-------------|---------------------------|------------------|
+| Maven       | SonarQube                 | Docker           |
+| Gradle      | Veracode                  | AKS (Azure Kubernetes Service) |
+| ANT         | White Source              | ACR (Azure Container Registry) |
+| Packer      | Aquasec                   | Kubernetes       |
+| Cake        | Checkmarx                 | Open Shift       |
+| MS Build    |                           | Quay             |
+| Pybuild     |                           | Helm             |
+|             |                           | ECS (Amazon Elastic Container Service) |
+|             |                           | ECR (Amazon Elastic Container Registry) |
+|             |                           | Serverless containers |
+|             |                           | Azure Webapps    |
+|             |                           | Azure Container Instances |
+
+| Monitoring           | Scripting | Packaging and Repository Management |
+|----------------------|-----------|-------------------------------------|
+| Application Insights  | PowerShell| Nuget                              |
+| Log Analytics         | Bash      | NPM                                |
+| Grafana               | CMD       | Artifactory feed                   |
+| ELK Stack (Elasticsearch, Logstash, Kibana) |         | Helm              |
+| GCP APIGEE            |           | ACR (Azure Container Registry)     |
+|                      |           | ECR (Amazon Elastic Container Registry) |
+|                      |           | Rook Ceph                          |
+|                      |           | Longhorn                           |
+|                      |           | Harbor                             |
+
 
 ### Monitoring | Scripting | Packaging and Repository Management
 --- | --- | ---
