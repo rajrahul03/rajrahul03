@@ -63,7 +63,7 @@ Here's a glimpse of the skills and technologies I bring to the table:
   <h2>Image Gallery</h2>
 </div>
 <div align="center">
-  <h3>Sep 19 , 2024 - Open Source Summit & CDF Summit Europe,Vienna,Austria  2024<h3>
+  <h3>Oct 18 , 2024 - AWS Community day,Dubai,UAE 2024<h3>
   <img src="./images/awsdxb/100.jpeg" alt="oss-1" width="400">
   <img src="./images/awsdxb/101.jpeg" alt="oss-2" width="400">   
   <img src="./images/awsdxb/102.jpeg" alt="oss-3" width="400">
