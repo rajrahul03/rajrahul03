@@ -3,6 +3,18 @@
 
 Hi there 👋, I'm Rahul Raj V V, a DevOps and Azure Certified Solutions Architect, Speaker, and Mentor. I specialize in architecting, building, and delivering highly resilient, scalable, and distributed technology platforms with a cloud-first and agile mentality. My approach is strongly centered around customer-centricity and business-focused solution development. Over the years, I've demonstrated expertise in solution architecture and building full IT lifecycle solutions in a diverse set of industry verticals.
 
+## About Me
+
+- 🔭 I’m currently working on architecting a large-scale microservices architecture for a financial services company.
+- 🌱 I’m currently leading two major CNCF communities CNCG Riyadh,Saudi Arabia and Trivandrum,India
+- 👯 I’m looking to collaborate on open-source DevOps projects that improve developer productivity.
+- 🤔 I’m looking for help with optimizing CI/CD pipelines for Kubernetes deployments.
+- 💬 Ask me about DevOps best practices, cloud architecture, or containerization strategies.Cloud Native tools
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rahulrajvv/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love traveling the world and enjoy the sceneries.
+
+
 ## Skills
 
 Here's a glimpse of the skills and technologies I bring to the table:
@@ -44,34 +56,18 @@ Here's a glimpse of the skills and technologies I bring to the table:
 |                      |           | Harbor                             |
 
 
-### Monitoring | Scripting | Packaging and Repository Management
---- | --- | ---
-Application Insights | PowerShell | Nuget
-Log Analytics | Bash | NPM
-Grafana | CMD | Artifactory feed
-ELK Stack (Elasticsearch, Logstash, Kibana) | | Helm
-GCP APIGEE | | ACR (Azure Container Registry)
- | | | ECR (Amazon Elastic Container Registry)
- | | | Rook Ceph
- | | | Longhorn
- | | | Harbor
-
-
-## About Me
-
-- 🔭 I’m currently working on architecting a large-scale microservices architecture for a financial services company.
-- 🌱 I’m currently leading two major CNCF communities CNCG Riyadh,Saudi Arabia and Trivandrum,India
-- 👯 I’m looking to collaborate on open-source DevOps projects that improve developer productivity.
-- 🤔 I’m looking for help with optimizing CI/CD pipelines for Kubernetes deployments.
-- 💬 Ask me about DevOps best practices, cloud architecture, or containerization strategies.Cloud Native tools
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/rahulrajvv/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love traveling the world and enjoy the sceneries.
 
 #  Here's a sneak peek of my offline events:
 
 <div align="center">
   <h2>Image Gallery</h2>
+</div>
+<div align="center">
+  <h3>Sep 19 , 2024 - Open Source Summit & CDF Summit Europe,Vienna,Austria  2024<h3>
+  <img src="./images/awsdxb/100.jpeg" alt="oss-1" width="400">
+  <img src="./images/awsdxb/101.jpeg" alt="oss-2" width="400">   
+  <img src="./images/awsdxb/102.jpeg" alt="oss-3" width="400">
+  <img src="./images/awsdxb/103.jpeg" alt="oss-3" width="400">        
 </div>
 <div align="center">
   <h3>Sep 25 , 2024 - DevOps Days, Cairo,Egypt 2024<h3>
